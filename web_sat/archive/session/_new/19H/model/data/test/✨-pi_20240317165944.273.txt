@@ -1,0 +1,105 @@
+Step 2 - 2 : Configuration : template .response(message) avec un système de surveillance de la qualité du signal en temps réel.
+
+Step 2 - 3 : Configuration : template .response(message) avec un système de notification automatique en cas de dégradation de la qualité du signal.
+
+Step 2 - 4 : Configuration : template .response(message) avec un système de basculement automatique vers une fréquence de secours en cas de dégradation de la qualité du signal.
+
+Step 2 - 5 : Configuration : template .response(message) avec un système de journalisation automatique des événements de dégradation de la qualité du signal.
+
+Step 2 - 6 : Configuration : template .response(message) avec un système de rapport automatique hebdomadaire sur la qualité du signal.
+
+Step 2 - 7 : Configuration : template .response(message) avec un système de visualisation en temps réel de la qualité du signal.
+
+Step 2 - 8 : Configuration : template .response(message) avec un système de contrôle à distance de la fréquence de communication.
+
+Step 2 - 9 : Configuration : template .response(message) avec un système de mise à jour automatique de la fréquence de communication en fonction de la position du satellite.
+
+Step 2 - 10 : Configuration : template .response(message) avec un système de correction automatique de la dérive de fréquence.
+
+Step 2 - 11 : Configuration : template .response(message) avec un système de contrôle de la puissance de transmission pour minimiser les interférences.
+
+Step 2 - 12 : Configuration : template .response(message) avec un système de contrôle de la polarisation pour maximiser la qualité du signal.
+
+Step 2 - 13 : Configuration : template .response(message) avec un système de contrôle de la phase pour minimiser les distorsions.
+
+Step 2 - 14 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 15 : Configuration : template .response(message) avec un système de contrôle de la latence pour minimiser les retards.
+
+Step 2 - 16 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 17 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 18 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 19 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 20 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 21 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 22 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 23 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 24 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 25 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 26 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 27 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 28 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 29 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 30 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 31 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 32 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 33 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 34 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 35 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 36 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 37 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 38 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 39 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 40 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 41 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 42 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 43 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 44 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 45 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 46 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 47 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 48 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 49 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 50 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 51 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 52 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 53 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations de délai.
+
+Step 2 - 54 : Configuration : template .response(message) avec un système de contrôle de la gigue pour minimiser les variations

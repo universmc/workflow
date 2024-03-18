@@ -1,0 +1,10 @@
+html, body {
+    min-height: 100vh;
+    min-width: 100vh;
+}
+* {box-sizing: border-box;}
+
+.windows {
+    width: 90%;
+    height: 90%;
+}

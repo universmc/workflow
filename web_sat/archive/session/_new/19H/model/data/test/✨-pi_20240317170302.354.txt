@@ -1,0 +1,192 @@
+Step 2 - 2 : Configuration : template .response(message).📶 [
+
+```python
+def handle_wireless_signal(signal_strength):
+    if signal_strength == 0:
+        return "📵 Aucun signal détecté"
+    elif signal_strength <= 25:
+        return "📶 Signal faible"
+    elif signal_strength <= 50:
+        return "📶 Signal moyen"
+    else:
+        return "📶 Signal fort"
+
+message = "📶 Signal : " + handle_wireless_signal(wireless_signal_percentage)
+```
+
+Step 2 - 3 : Configuration : template .response(message).📡
+
+```python
+def handle_satellite_dish_status(status):
+    if status:
+        return "📡 Satellite lié"
+    else:
+        return "📡 Satellite déconnecté"
+
+message = "📡 Satellite : " + handle_satellite_dish_status(satellite_dish_connected)
+```
+
+Step 2 - 4 : Configuration : template .response(message).🛰
+
+```python
+def handle_satellite_name(satellite):
+    if satellite == "hubble":
+        return "🛰 Satellite : Hubble"
+    elif satellite == "voyager":
+        return "🛰 Satellite : Voyager"
+    elif satellite == "ISS":
+        return "🛰 Satellite : ISS"
+    else:
+        return "🛰 Satellite : Inconnu"
+
+message = "🛰 Satellite : " + handle_satellite_name(satellite_name)
+```
+
+Step 2 - 5 : Configuration : template .response(message).pi\_sat
+
+```python
+def handle_pi_sat_status(status):
+    if status:
+        return "🛰 Pi-Sat : Actif"
+    else:
+        return "🛰 Pi-Sat : Inactif"
+
+message = "🛰 Pi-Sat : " + handle_pi_sat_status(pi_sat_status)
+```
+
+Step 2 - 6 : Configuration : template .response(message).📊
+
+```python
+def handle_frequency_stability(frequency_stability_percentage):
+    if frequency_stability_percentage <= 50:
+        return "📊 Stabilité de la fréquence : Instable"
+    else:
+        return "📊 Stabilité de la fréquence : Stable"
+
+message = "📊 Stabilité de la fréquence : " + handle_frequency_stability(frequency_stability_percentage)
+```
+
+Step 2 - 7 : Configuration : template .response(message).📊
+
+```python
+def handle_signal_strength(signal_strength):
+    if signal_strength <= 25:
+        return "📊 Force du signal : Faible"
+    elif signal_strength <= 50:
+        return "📊 Force du signal : Moyenne"
+    else:
+        return "📊 Force du signal : Forte"
+
+message = "📊 Force du signal : " + handle_signal_strength(signal_strength)
+```
+
+Step 2 - 8 : Configuration : template .response(message).🌌
+
+```python
+def handle_space_weather(space_weather_status):
+    if space_weather_status == "calm":
+        return "🌌 Conditions spatiales : Calmes"
+    elif space_weather_status == "storm":
+        return "🌌 Conditions spatiales : Tempête"
+    else:
+        return "🌌 Conditions spatiales : Inconnues"
+
+message = "🌌 Conditions spatiales : " + handle_space_weather(space_weather_status)
+```
+
+Step 2 - 9 : Configuration : template .response(message).🌠
+
+```python
+def handle_shooting_star(shooting_star_status):
+    if shooting_star_status:
+        return "🌠 Étoile filante : Oui"
+    else:
+        return "🌠 Étoile filante : Non"
+
+message = "🌠 Étoile filante : " + handle_shooting_star(shooting_star_status)
+```
+
+Step 2 - 10 : Configuration : template .response(message).🌌
+
+```python
+def handle_space_objects(space_objects_status):
+    if space_objects_status == "near":
+        return "🌌 Objets spatiaux : Proches"
+    elif space_objects_status == "far":
+        return "🌌 Objets spatiaux : Éloignés"
+    else:
+        return "🌌 Objets spatiaux : Inconnus"
+
+message = "🌌 Objets spatiaux : " + handle_space_objects(space_objects_status)
+```
+
+Step 2 - 11 : Configuration : template .response(message).🌠
+
+```python
+def handle_comet(comet_status):
+    if comet_status:
+        return "🌠 Comète : Oui"
+    else:
+        return "🌠 Comète : Non"
+
+message = "🌠 Comète : " + handle_comet(comet_status)
+```
+
+Step 2 - 12 : Configuration : template .response(message).🛰
+
+```python
+def handle_satellite_group(satellite_group_status):
+    if satellite_group_status == "near":
+        return "🛰 Groupe de satellites : Proches"
+    elif satellite_group_status == "far":
+        return "🛰 Groupe de satellites : Éloignés"
+    else:
+        return "🛰 Groupe de satellites : Inconnus"
+
+message = "🛰 Groupe de satellites : " + handle_satellite_group(satellite_group_status)
+```
+
+Step 2 - 13 : Configuration : template .response(message).🌌
+
+```python
+def handle_space_debris(space_debris_status):
+    if space_debris_status == "high":
+        return "🌌 Débris spatial : Élevé"
+    elif space_debris_status == "medium":
+        return "🌌 Débris spatial : Moyen"
+    else:
+        return "🌌 Débris spatial : Faible"
+
+message = "🌌 Débris spatial : " + handle_space_debris(space_debris_status)
+```
+
+Step 2 - 14 : Configuration : template .response(message).🌠
+
+```python
+def handle_meteor_shower(meteor_shower_status):
+    if meteor_shower_status:
+        return "🌠 Pluie de météores : Oui"
+    else:
+        return "🌠 Pluie de météores : Non"
+
+message = "🌠 Pluie de météores : " + handle_meteor_shower(meteor_shower_status)
+```
+
+Step 2 - 15 : Configuration : template .response(message).🛰
+
+```python
+def handle_satellite_traffic(satellite_traffic_status):
+    if satellite_traffic_status == "high":
+        return "🛰 Trafic satellite : Élevé"
+    elif satellite_traffic_status == "medium":
+        return "🛰 Trafic satellite : Moyen"
+    else:
+        return "🛰 Trafic satellite : Faible"
+
+message = "🛰 Trafic satellite : " + handle_satellite_traffic(satellite_traffic_status)
+```
+
+Step 2 - 16 : Configuration : template .response(message).🌌
+
+```python
+def handle_space_clouds(space

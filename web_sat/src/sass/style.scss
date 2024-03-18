@@ -1,0 +1,117 @@
+// Variables
+$primary-color:black;
+$secondary-color: white;
+$text-color: gray;
+$text-color: white;
+
+// Text
+$font-family: 'Arial', sans-serif;
+$font-size-base: 16px;
+
+// Links
+$link-color: $primary-color;
+$link-hover-color: darken($link-color, 10%);
+
+// Buttons
+$btn-border-radius: 4px;
+$btn-padding-x: 12px;
+$btn-padding-y: 10px;
+$btn-font-size: $font-size-base;
+$btn-bg-color: $primary-color;
+$btn-hover-bg-color: darken($btn-bg-color, 5%);
+$btn-text-color: $text-color;
+
+// Navbar
+$navbar-bg-color: $primary-color;
+$navbar-color: $text-color;
+$navbar-height: 64px;
+$navbar-padding-x: 20px;
+$navbar-font-size: 16px;
+
+// Containers
+$container-width: 80%;
+$container-max-width: 1200px;
+
+// Grid
+$grid-gutter-width: 30px;
+
+// Padding
+$padding-small: 8px;
+$padding-medium: 16px;
+$padding-large: 24px;
+
+// Margin
+$margin-small: 8px;
+$margin-medium: 16px;
+$margin-large: 24px;
+
+// Navbar
+.navbar {
+  background-color: $navbar-bg-color;
+  color: $navbar-color;
+  height: $navbar-height;
+  padding: 0 $navbar-padding-x;
+  font-size: $navbar-font-size;
+}
+
+// Containers
+.container {
+  width: $container-width;
+  max-width: $container-max-width;
+  margin: auto;
+}
+
+// Buttons
+.btn {
+  padding: $btn-padding-y $btn-padding-x;
+  font-size: $btn-font-size;
+  background-color: $btn-bg-color;
+  color: $btn-text-color;
+  border-radius: $btn-border-radius;
+
+  &:hover {
+    background-color: $btn-hover-bg-color;
+  }
+}
+
+// Text
+body {
+  font-family: $font-family;
+  font-size: $font-size-base;
+  color: $text-color;
+}
+
+// Links
+a {
+  color: $link-color;
+
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+// Padding
+.p-sm {
+  padding: $padding-small;
+}
+
+.p-md {
+  padding: $padding-medium;
+}
+
+.p-lg {
+  padding: $padding-large;
+}
+
+// Margin
+.m-sm {
+  margin: $margin-small;
+}
+
+.m-md {
+  margin: $margin-medium;
+}
+
+.m-lg {
+  margin: $margin-large;
+}

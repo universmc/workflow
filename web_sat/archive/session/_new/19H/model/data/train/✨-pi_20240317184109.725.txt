@@ -1,0 +1,15 @@
+Step 1-4 : Développement : 🛰: Le satellite est équipé d'un système de propulsion pour maintenir son orbite et effectuer des manœuvres. Il est également équipé de capteurs pour recueillir des données sur l'environnement spatial et de communication pour envoyer et recevoir des données.
+
+Step 2-1 : Configuration : Les fichiers suivants doivent être configurés pour que le satellite fonctionne correctement :
+
+* ctrl.js : fichier de contrôle du satellite
+* loop.js : fichier de boucle de contrôle
+* sat.json : fichier de configuration du satellite
+* signal.js : fichier de traitement des signaux
+* style.css : fichier de style pour l'interface utilisateur
+* index.php : fichier d'accueil pour l'interface utilisateur
+* request.php : fichier pour les requêtes HTTP
+* scan.js : fichier de scan de l'environnement spatial
+* srv.js : fichier de service pour la communication avec d'autres satellites ou stations terrestres.
+
+Il est important de noter que la configuration dépend de la mission spécifique du satellite et des capteurs utilisés.
